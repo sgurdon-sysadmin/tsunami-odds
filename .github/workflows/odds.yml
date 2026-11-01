@@ -1,0 +1,33 @@
+name: Fetch odds
+on:
+  schedule:
+    - cron: "15 22 * * *"     # NBA daily, 5:15 p.m. ET (EST; 6:15 p.m. during daylight time)
+    - cron: "15 15 * * 0"     # NFL Sunday, 10:15 a.m. ET
+    - cron: "15 0 * * 2,5"    # NFL Mon/Thu night, 7:15 p.m. ET
+  workflow_dispatch:
+    inputs:
+      sport: {description: "nba or nfl", required: true, default: "nba"}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pick sport
+        id: s
+        run: |
+          if [ -n "${{ github.event.inputs.sport }}" ]; then echo "sport=${{ github.event.inputs.sport }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "15 22 * * *" ]; then echo "sport=nba" >> $GITHUB_OUTPUT
+          else echo "sport=nfl" >> $GITHUB_OUTPUT; fi
+      - name: Fetch
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          NBA_PROP_MARKETS: ${{ vars.NBA_PROP_MARKETS }}
+          NFL_PROP_MARKETS: ${{ vars.NFL_PROP_MARKETS }}
+        run: python fetch_odds.py ${{ steps.s.outputs.sport }}
+      - name: Commit snapshot
+        run: |
+          git config user.name "tsunami-bot"; git config user.email "tsunami-bot@users.noreply.github.com"
+          git add odds/ && git commit -m "odds ${{ steps.s.outputs.sport }} $(date -u +%FT%TZ)" || echo "no change"
+          git push
