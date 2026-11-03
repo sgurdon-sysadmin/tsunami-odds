@@ -1,9 +1,9 @@
 name: Fetch odds
 on:
   schedule:
-    - cron: "15 22 * * *"     # NBA daily, 5:15 p.m. ET (EST; 6:15 p.m. during daylight time)
-    - cron: "15 15 * * 0"     # NFL Sunday, 10:15 a.m. ET
-    - cron: "15 0 * * 2,5"    # NFL Mon/Thu night, 7:15 p.m. ET
+    - cron: "15 21 * * *"     # NBA daily, 4:15 p.m. ET (EST; 5:15 p.m. during daylight time)
+    - cron: "30 14 * * 0"     # NFL Sunday, 9:30 a.m. ET
+    - cron: "30 23 * * 1,4"   # NFL Mon/Thu night, 6:30 p.m. ET
   workflow_dispatch:
     inputs:
       sport: {description: "nba or nfl", required: true, default: "nba"}
@@ -18,7 +18,7 @@ jobs:
         id: s
         run: |
           if [ -n "${{ github.event.inputs.sport }}" ]; then echo "sport=${{ github.event.inputs.sport }}" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event.schedule }}" = "15 22 * * *" ]; then echo "sport=nba" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "15 21 * * *" ]; then echo "sport=nba" >> $GITHUB_OUTPUT
           else echo "sport=nfl" >> $GITHUB_OUTPUT; fi
       - name: Fetch
         env:
