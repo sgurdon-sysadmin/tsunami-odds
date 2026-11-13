@@ -1,66 +1,66 @@
 {
  "sport": "nfl",
- "fetched_at": "2026-11-09T23:58:14.534467+00:00",
- "credits_remaining": "316",
+ "fetched_at": "2026-11-13T00:04:11.960084+00:00",
+ "credits_remaining": "262",
  "books": "draftkings,fanduel,betmgm,caesars,espnbet,fanatics",
  "prop_markets": "player_anytime_td,player_tds_over",
  "games": [
   {
-   "id": "17ad7eff2f7875e20a8109abe40470e3",
+   "id": "74d39e19225caf211ad2c8eb4110179f",
    "sport_key": "americanfootball_nfl",
    "sport_title": "NFL",
-   "commence_time": "2026-11-10T01:15:00Z",
-   "home_team": "Minnesota Vikings",
-   "away_team": "Buffalo Bills",
+   "commence_time": "2026-11-13T01:15:00Z",
+   "home_team": "New York Giants",
+   "away_team": "Washington Commanders",
    "bookmakers": [
     {
      "key": "draftkings",
      "title": "DraftKings",
-     "last_update": "2026-11-09T23:57:20Z",
+     "last_update": "2026-11-13T00:04:10Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-09T23:57:20Z",
+       "last_update": "2026-11-13T00:04:10Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
-         "price": -192
+         "name": "New York Giants",
+         "price": -125
         },
         {
-         "name": "Minnesota Vikings",
-         "price": 160
+         "name": "Washington Commanders",
+         "price": 105
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-11-09T23:57:20Z",
+       "last_update": "2026-11-13T00:04:10Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
-         "price": -105,
-         "point": -3.5
+         "name": "New York Giants",
+         "price": -110,
+         "point": -1.5
         },
         {
-         "name": "Minnesota Vikings",
-         "price": -115,
-         "point": 3.5
+         "name": "Washington Commanders",
+         "price": -110,
+         "point": 1.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-11-09T23:57:20Z",
+       "last_update": "2026-11-13T00:04:10Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -112,
-         "point": 45.5
+         "price": -115,
+         "point": 40.5
         },
         {
          "name": "Under",
-         "price": -108,
-         "point": 45.5
+         "price": -105,
+         "point": 40.5
         }
        ]
       }
@@ -69,51 +69,51 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-11-09T23:57:59Z",
+     "last_update": "2026-11-13T00:03:54Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-09T23:57:58Z",
+       "last_update": "2026-11-13T00:03:54Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
-         "price": -186
+         "name": "New York Giants",
+         "price": -118
         },
         {
-         "name": "Minnesota Vikings",
-         "price": 156
+         "name": "Washington Commanders",
+         "price": 100
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-11-09T23:57:58Z",
+       "last_update": "2026-11-13T00:03:54Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
-         "price": -120,
-         "point": -3.0
+         "name": "New York Giants",
+         "price": -105,
+         "point": -1.5
         },
         {
-         "name": "Minnesota Vikings",
-         "price": 100,
-         "point": 3.0
+         "name": "Washington Commanders",
+         "price": -115,
+         "point": 1.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-11-09T23:57:58Z",
+       "last_update": "2026-11-13T00:03:54Z",
        "outcomes": [
         {
          "name": "Over",
          "price": -115,
-         "point": 45.5
+         "point": 40.5
         },
         {
          "name": "Under",
          "price": -105,
-         "point": 45.5
+         "point": 40.5
         }
        ]
       }
@@ -122,51 +122,51 @@
     {
      "key": "betmgm",
      "title": "BetMGM",
-     "last_update": "2026-11-09T23:57:38Z",
+     "last_update": "2026-11-13T00:03:33Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-09T23:57:37Z",
+       "last_update": "2026-11-13T00:03:32Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
-         "price": -200
+         "name": "New York Giants",
+         "price": -120
         },
         {
-         "name": "Minnesota Vikings",
-         "price": 165
+         "name": "Washington Commanders",
+         "price": 100
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-11-09T23:57:37Z",
+       "last_update": "2026-11-13T00:03:32Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
+         "name": "New York Giants",
          "price": -102,
-         "point": -3.5
+         "point": -1.5
         },
         {
-         "name": "Minnesota Vikings",
-         "price": -118,
-         "point": 3.5
+         "name": "Washington Commanders",
+         "price": -108,
+         "point": 1.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-11-09T23:57:37Z",
+       "last_update": "2026-11-13T00:03:32Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -108,
-         "point": 46.0
+         "price": -105,
+         "point": 41.0
         },
         {
          "name": "Under",
-         "price": -110,
-         "point": 46.0
+         "price": -112,
+         "point": 41.0
         }
        ]
       }
@@ -175,51 +175,51 @@
     {
      "key": "espnbet",
      "title": "theScore Bet",
-     "last_update": "2026-11-09T23:57:41Z",
+     "last_update": "2026-11-13T00:03:32Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-09T23:57:41Z",
+       "last_update": "2026-11-13T00:03:32Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
-         "price": -200
+         "name": "New York Giants",
+         "price": -120
         },
         {
-         "name": "Minnesota Vikings",
-         "price": 170
+         "name": "Washington Commanders",
+         "price": 100
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-11-09T23:57:41Z",
+       "last_update": "2026-11-13T00:03:32Z",
        "outcomes": [
         {
-         "name": "Buffalo Bills",
-         "price": 100,
-         "point": -3.5
+         "name": "New York Giants",
+         "price": -105,
+         "point": -1.5
         },
         {
-         "name": "Minnesota Vikings",
-         "price": -120,
-         "point": 3.5
+         "name": "Washington Commanders",
+         "price": -115,
+         "point": 1.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-11-09T23:57:41Z",
+       "last_update": "2026-11-13T00:03:32Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -105,
-         "point": 46.5
+         "price": -110,
+         "point": 40.5
         },
         {
          "name": "Under",
-         "price": -115,
-         "point": 46.5
+         "price": -110,
+         "point": 40.5
         }
        ]
       }
@@ -233,439 +233,416 @@
      "markets": [
       {
        "key": "player_anytime_td",
-       "last_update": "2026-11-09T23:57:19Z",
+       "last_update": "2026-11-13T00:03:57Z",
        "outcomes": [
         {
          "name": "Yes",
-         "description": "Josh Allen",
-         "price": -125
+         "description": "Cam Skattebo",
+         "price": 125
         },
         {
          "name": "Yes",
-         "description": "James Cook",
-         "price": -110
+         "description": "Malik Nabers",
+         "price": 175
         },
         {
          "name": "Yes",
-         "description": "Justin Jefferson",
-         "price": 120
+         "description": "Rachaad White",
+         "price": 180
         },
         {
          "name": "Yes",
-         "description": "Jordan Mason",
-         "price": 210
+         "description": "Isaiah Likely",
+         "price": 205
         },
         {
          "name": "Yes",
-         "description": "T.J. Hockenson",
-         "price": 210
+         "description": "Stefon Diggs",
+         "price": 225
         },
         {
          "name": "Yes",
-         "description": "Jordan Addison",
-         "price": 245
+         "description": "Jayden Daniels",
+         "price": 275
         },
         {
          "name": "Yes",
-         "description": "DJ Moore",
-         "price": 250
+         "description": "Devin Singletary",
+         "price": 280
         },
         {
          "name": "Yes",
-         "description": "Dalton Kincaid",
-         "price": 255
+         "description": "Austin Ekeler",
+         "price": 320
         },
         {
          "name": "Yes",
-         "description": "Aaron Jones",
-         "price": 285
+         "description": "Chig Okonkwo",
+         "price": 330
         },
         {
          "name": "Yes",
-         "description": "Khalil Shakir",
+         "description": "Treylon Burks",
          "price": 360
         },
         {
          "name": "Yes",
-         "description": "Keon Coleman",
-         "price": 400
+         "description": "Antonio Williams",
+         "price": 425
         },
         {
          "name": "Yes",
-         "description": "Minnesota Vikings D/ST",
-         "price": 650
+         "description": "Malachi Fields",
+         "price": 450
         },
         {
          "name": "Yes",
-         "description": "Buffalo Bills D/ST",
-         "price": 650
+         "description": "J.J. McCarthy",
+         "price": 475
         },
         {
          "name": "Yes",
-         "description": "Dawson Knox",
-         "price": 650
+         "description": "New York Giants D/ST",
+         "price": 500
         },
         {
          "name": "Yes",
-         "description": "Ty Johnson",
+         "description": "Washington Commanders D/ST",
+         "price": 500
+        },
+        {
+         "name": "Yes",
+         "description": "Van Jefferson",
          "price": 750
         },
         {
          "name": "Yes",
-         "description": "Ben Yurosek",
-         "price": 800
+         "description": "Darnell Mooney",
+         "price": 850
         },
         {
          "name": "Yes",
-         "description": "Myles Price",
-         "price": 1000
+         "description": "Theo Johnson",
+         "price": 900
         },
         {
          "name": "Yes",
-         "description": "Tai Felton",
-         "price": 1200
-        },
-        {
-         "name": "Yes",
-         "description": "Carson Wentz",
-         "price": 1200
-        },
-        {
-         "name": "Yes",
-         "description": "Gavin Bartholomew",
-         "price": 1300
-        },
-        {
-         "name": "Yes",
-         "description": "Jackson Hawes",
-         "price": 1300
-        },
-        {
-         "name": "Yes",
-         "description": "Ray Davis",
-         "price": 1300
-        },
-        {
-         "name": "Yes",
-         "description": "Odell Beckham Jr.",
-         "price": 1400
-        },
-        {
-         "name": "Yes",
-         "description": "DeeJay Dallas",
+         "description": "John Bates",
          "price": 1500
         },
         {
          "name": "Yes",
-         "description": "Trent Sherfield",
+         "description": "Luke McCaffrey",
          "price": 1900
         },
         {
          "name": "Yes",
-         "description": "Max Bredeson",
+         "description": "Greg Desrosiers Jr.",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "Jalin Hyatt",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "Ben Sinnott",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "Charlie Jones",
+         "price": 2200
+        },
+        {
+         "name": "Yes",
+         "description": "Robert Henry Jr.",
          "price": 2500
         },
         {
          "name": "Yes",
-         "description": "Greg Dortch",
+         "description": "Patrick Ricard",
          "price": 3000
         },
         {
          "name": "Yes",
-         "description": "Keleki Latu",
+         "description": "Chris Manhertz",
          "price": 3500
         }
        ]
       },
       {
        "key": "player_tds_over",
-       "last_update": "2026-11-09T23:57:19Z",
+       "last_update": "2026-11-13T00:03:57Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Josh Allen",
-         "price": 450,
+         "description": "Cam Skattebo",
+         "price": 800,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "James Cook",
-         "price": 550,
+         "description": "Rachaad White",
+         "price": 1300,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Justin Jefferson",
-         "price": 850,
+         "description": "Malik Nabers",
+         "price": 1400,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Jordan Mason",
-         "price": 1600,
+         "description": "Isaiah Likely",
+         "price": 1800,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "T.J. Hockenson",
-         "price": 1700,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Dalton Kincaid",
+         "description": "Stefon Diggs",
          "price": 2000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Jordan Addison",
+         "description": "Devin Singletary",
          "price": 2200,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "DJ Moore",
-         "price": 2200,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Aaron Jones",
+         "description": "Jayden Daniels",
          "price": 2500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Khalil Shakir",
-         "price": 3500,
+         "description": "Austin Ekeler",
+         "price": 2800,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Keon Coleman",
-         "price": 4500,
+         "description": "Chig Okonkwo",
+         "price": 3000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Minnesota Vikings D/ST",
-         "price": 7000,
+         "description": "Treylon Burks",
+         "price": 4000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Dawson Knox",
-         "price": 7500,
+         "description": "New York Giants D/ST",
+         "price": 5000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Buffalo Bills D/ST",
-         "price": 7500,
+         "description": "Washington Commanders D/ST",
+         "price": 5000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Ty Johnson",
+         "description": "Malachi Fields",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Antonio Williams",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "J.J. McCarthy",
+         "price": 6000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Van Jefferson",
          "price": 9000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Ben Yurosek",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Myles Price",
+         "description": "Darnell Mooney",
          "price": 11000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Tai Felton",
-         "price": 14000,
+         "description": "Theo Johnson",
+         "price": 11000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Carson Wentz",
-         "price": 14000,
+         "description": "John Bates",
+         "price": 18000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Jackson Hawes",
-         "price": 15000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ray Davis",
-         "price": 15000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Gavin Bartholomew",
-         "price": 16000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Odell Beckham Jr.",
-         "price": 16000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "DeeJay Dallas",
-         "price": 17000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Max Bredeson",
+         "description": "Robert Henry Jr.",
          "price": 20000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Trent Sherfield",
+         "description": "Luke McCaffrey",
          "price": 20000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Keleki Latu",
+         "description": "Ben Sinnott",
+         "price": 20000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Greg Desrosiers Jr.",
+         "price": 20000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Jalin Hyatt",
+         "price": 20000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Charlie Jones",
          "price": 25000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Greg Dortch",
+         "description": "Patrick Ricard",
          "price": 25000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Josh Allen",
-         "price": 2000,
+         "description": "Chris Manhertz",
+         "price": 25000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Cam Skattebo",
+         "price": 4000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "James Cook",
-         "price": 2500,
+         "description": "Rachaad White",
+         "price": 7000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Justin Jefferson",
-         "price": 4500,
+         "description": "Malik Nabers",
+         "price": 7500,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Jordan Mason",
+         "description": "Isaiah Likely",
          "price": 8000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "T.J. Hockenson",
-         "price": 9000,
+         "description": "Stefon Diggs",
+         "price": 10000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Aaron Jones",
+         "description": "Jayden Daniels",
          "price": 11000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Dalton Kincaid",
-         "price": 11000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Jordan Addison",
+         "description": "Devin Singletary",
          "price": 12000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "DJ Moore",
-         "price": 13000,
+         "description": "Austin Ekeler",
+         "price": 12000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Khalil Shakir",
-         "price": 15000,
+         "description": "Treylon Burks",
+         "price": 16000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Keon Coleman",
-         "price": 18000,
+         "description": "Chig Okonkwo",
+         "price": 17000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Minnesota Vikings D/ST",
+         "description": "New York Giants D/ST",
+         "price": 17000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Malachi Fields",
+         "price": 19000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Antonio Williams",
+         "price": 19000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "J.J. McCarthy",
          "price": 20000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Buffalo Bills D/ST",
+         "description": "Van Jefferson",
          "price": 20000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Tai Felton",
+         "description": "Washington Commanders D/ST",
+         "price": 20000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Mooney",
          "price": 25000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Ben Yurosek",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Dawson Knox",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Ty Johnson",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Ray Davis",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Odell Beckham Jr.",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Myles Price",
+         "description": "Greg Desrosiers Jr.",
          "price": 25000,
          "point": 2.5
         }
@@ -679,283 +656,278 @@
      "markets": [
       {
        "key": "player_anytime_td",
-       "last_update": "2026-11-09T23:57:50Z",
+       "last_update": "2026-11-13T00:03:54Z",
        "outcomes": [
         {
          "name": "Yes",
-         "description": "Josh Allen",
-         "price": -125
-        },
-        {
-         "name": "Yes",
-         "description": "James Cook",
-         "price": -110
-        },
-        {
-         "name": "Yes",
-         "description": "Justin Jefferson",
+         "description": "Cam Skattebo",
          "price": 130
         },
         {
          "name": "Yes",
-         "description": "Jordan Mason",
-         "price": 210
+         "description": "Rachaad White",
+         "price": 175
         },
         {
          "name": "Yes",
-         "description": "T.J. Hockenson",
-         "price": 210
+         "description": "Malik Nabers",
+         "price": 175
         },
         {
          "name": "Yes",
-         "description": "Jordan Addison",
-         "price": 250
+         "description": "Isaiah Likely",
+         "price": 200
         },
         {
          "name": "Yes",
-         "description": "DJ Moore",
-         "price": 260
+         "description": "Stefon Diggs",
+         "price": 230
         },
         {
          "name": "Yes",
-         "description": "Aaron Jones",
+         "description": "Jayden Daniels",
          "price": 270
         },
         {
          "name": "Yes",
-         "description": "Dalton Kincaid",
+         "description": "Devin Singletary",
          "price": 280
         },
         {
          "name": "Yes",
-         "description": "Khalil Shakir",
-         "price": 310
+         "description": "Austin Ekeler",
+         "price": 330
         },
         {
          "name": "Yes",
-         "description": "Keon Coleman",
+         "description": "Treylon Burks",
+         "price": 340
+        },
+        {
+         "name": "Yes",
+         "description": "Chig Okonkwo",
+         "price": 370
+        },
+        {
+         "name": "Yes",
+         "description": "Antonio Williams",
          "price": 400
         },
         {
          "name": "Yes",
-         "description": "Ben Yurosek",
-         "price": 700
+         "description": "Malachi Fields",
+         "price": 470
         },
         {
          "name": "Yes",
-         "description": "Dawson Knox",
-         "price": 700
+         "description": "J.J. McCarthy",
+         "price": 490
         },
         {
          "name": "Yes",
-         "description": "Buffalo Bills Defense",
-         "price": 700
+         "description": "Washington Commanders Defense",
+         "price": 750
         },
         {
          "name": "Yes",
-         "description": "Ty Johnson",
-         "price": 700
+         "description": "New York Giants Defense",
+         "price": 800
         },
         {
          "name": "Yes",
-         "description": "Minnesota Vikings Defense",
-         "price": 700
+         "description": "Darnell Mooney",
+         "price": 850
         },
         {
          "name": "Yes",
-         "description": "Myles Price",
-         "price": 1000
+         "description": "Van Jefferson",
+         "price": 850
         },
         {
          "name": "Yes",
-         "description": "Tai Felton",
-         "price": 1200
+         "description": "Theo Johnson",
+         "price": 900
         },
         {
          "name": "Yes",
-         "description": "Carson Wentz",
-         "price": 1200
-        },
-        {
-         "name": "Yes",
-         "description": "Gavin Bartholomew",
+         "description": "Luke McCaffrey",
          "price": 1300
         },
         {
          "name": "Yes",
-         "description": "Ray Davis",
-         "price": 1300
-        },
-        {
-         "name": "Yes",
-         "description": "Jackson Hawes",
-         "price": 1300
-        },
-        {
-         "name": "Yes",
-         "description": "Odell Beckham Jr.",
-         "price": 1400
-        },
-        {
-         "name": "Yes",
-         "description": "DeeJay Dallas",
+         "description": "John Bates",
          "price": 1500
         },
         {
          "name": "Yes",
-         "description": "Trent Sherfield",
-         "price": 1800
+         "description": "Jalin Hyatt",
+         "price": 1900
         },
         {
          "name": "Yes",
-         "description": "Greg Dortch",
-         "price": 2200
+         "description": "Charlie Jones",
+         "price": 2000
         },
         {
          "name": "Yes",
-         "description": "Max Bredeson",
-         "price": 2500
+         "description": "Ben Sinnott",
+         "price": 2000
         },
         {
          "name": "Yes",
-         "description": "Keleki Latu",
+         "description": "Greg Desrosiers Jr.",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "Robert Henry Jr.",
+         "price": 2700
+        },
+        {
+         "name": "Yes",
+         "description": "Patrick Ricard",
          "price": 3300
+        },
+        {
+         "name": "Yes",
+         "description": "Chris Manhertz",
+         "price": 3500
         }
        ]
       },
       {
        "key": "player_tds_over",
-       "last_update": "2026-11-09T23:57:50Z",
+       "last_update": "2026-11-13T00:03:54Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Josh Allen",
-         "price": 500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "James Cook",
-         "price": 600,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Jefferson",
+         "description": "Cam Skattebo",
          "price": 950,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Jordan Mason",
+         "description": "Malik Nabers",
+         "price": 1400,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Rachaad White",
+         "price": 1400,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Isaiah Likely",
          "price": 1800,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "T.J. Hockenson",
-         "price": 1900,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "DJ Moore",
+         "description": "Stefon Diggs",
          "price": 2200,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Jordan Addison",
-         "price": 2200,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Aaron Jones",
+         "description": "Jayden Daniels",
          "price": 2700,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Dalton Kincaid",
+         "description": "Devin Singletary",
+         "price": 2700,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Austin Ekeler",
          "price": 3000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Khalil Shakir",
-         "price": 3300,
+         "description": "Treylon Burks",
+         "price": 3500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Keon Coleman",
+         "description": "Chig Okonkwo",
          "price": 4500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Dawson Knox",
-         "price": 10000,
+         "description": "Antonio Williams",
+         "price": 5000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Minnesota Vikings Defense",
-         "price": 10000,
+         "description": "Malachi Fields",
+         "price": 6000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Buffalo Bills Defense",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ty Johnson",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ben Yurosek",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Myles Price",
-         "price": 17500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Josh Allen",
-         "price": 2700,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "James Cook",
-         "price": 3300,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Jefferson",
+         "description": "J.J. McCarthy",
          "price": 6500,
-         "point": 2.5
+         "point": 1.5
         },
         {
          "name": "Over",
-         "description": "T.J. Hockenson",
+         "description": "Washington Commanders Defense",
+         "price": 10000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "New York Giants Defense",
+         "price": 10000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Van Jefferson",
+         "price": 12500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Theo Johnson",
+         "price": 12500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Mooney",
          "price": 15000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Cam Skattebo",
+         "price": 5500,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Jordan Mason",
+         "description": "Rachaad White",
+         "price": 10000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Malik Nabers",
+         "price": 10000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Isaiah Likely",
          "price": 15000,
          "point": 2.5
         }
@@ -969,389 +941,411 @@
      "markets": [
       {
        "key": "player_anytime_td",
-       "last_update": "2026-11-09T23:57:47Z",
+       "last_update": "2026-11-13T00:03:55Z",
        "outcomes": [
         {
          "name": "Yes",
-         "description": "DeeJay Dallas",
-         "price": 1700
+         "description": "Austin Ekeler",
+         "price": 300
         },
         {
          "name": "Yes",
-         "description": "Ben Yurosek",
-         "price": 1000
+         "description": "Charlie Jones",
+         "price": 1750
         },
         {
          "name": "Yes",
-         "description": "Buffalo Bills D/ST",
-         "price": 575
+         "description": "Stefon Diggs",
+         "price": 240
         },
         {
          "name": "Yes",
-         "description": "Jordan Addison",
-         "price": 260
-        },
-        {
-         "name": "Yes",
-         "description": "Jackson Hawes",
-         "price": 1350
-        },
-        {
-         "name": "Yes",
-         "description": "Keleki Latu",
-         "price": 3500
-        },
-        {
-         "name": "Yes",
-         "description": "Khalil Shakir",
-         "price": 333
-        },
-        {
-         "name": "Yes",
-         "description": "Dalton Kincaid",
-         "price": 280
-        },
-        {
-         "name": "Yes",
-         "description": "Ray Davis",
-         "price": 1300
-        },
-        {
-         "name": "Yes",
-         "description": "James Cook",
-         "price": 100
-        },
-        {
-         "name": "Yes",
-         "description": "Aaron Jones",
-         "price": 225
-        },
-        {
-         "name": "Yes",
-         "description": "Keon Coleman",
-         "price": 425
-        },
-        {
-         "name": "Yes",
-         "description": "Dawson Knox",
-         "price": 775
-        },
-        {
-         "name": "Yes",
-         "description": "Josh Allen",
-         "price": -120
-        },
-        {
-         "name": "Yes",
-         "description": "T.J. Hockenson",
-         "price": 230
-        },
-        {
-         "name": "Yes",
-         "description": "Ty Johnson",
-         "price": 675
-        },
-        {
-         "name": "Yes",
-         "description": "Gavin Bartholomew",
-         "price": 1700
-        },
-        {
-         "name": "Yes",
-         "description": "Justin Jefferson",
-         "price": 140
-        },
-        {
-         "name": "Yes",
-         "description": "DJ Moore",
-         "price": 260
-        },
-        {
-         "name": "Yes",
-         "description": "Minnesota Vikings D/ST",
+         "description": "Washington Commanders D/ST",
          "price": 525
         },
         {
          "name": "Yes",
-         "description": "Jordan Mason",
+         "description": "Darnell Mooney",
+         "price": 775
+        },
+        {
+         "name": "Yes",
+         "description": "Jalin Hyatt",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "Ben Sinnott",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "John Bates",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "Treylon Burks",
+         "price": 400
+        },
+        {
+         "name": "Yes",
+         "description": "Patrick Ricard",
+         "price": 3300
+        },
+        {
+         "name": "Yes",
+         "description": "Greg Desrosiers Jr.",
+         "price": 2200
+        },
+        {
+         "name": "Yes",
+         "description": "Robert Henry Jr.",
+         "price": 2000
+        },
+        {
+         "name": "Yes",
+         "description": "Malik Nabers",
+         "price": 175
+        },
+        {
+         "name": "Yes",
+         "description": "New York Giants D/ST",
+         "price": 475
+        },
+        {
+         "name": "Yes",
+         "description": "Rachaad White",
+         "price": 175
+        },
+        {
+         "name": "Yes",
+         "description": "J.J. McCarthy",
+         "price": 475
+        },
+        {
+         "name": "Yes",
+         "description": "Chig Okonkwo",
+         "price": 380
+        },
+        {
+         "name": "Yes",
+         "description": "Chris Manhertz",
+         "price": 3300
+        },
+        {
+         "name": "Yes",
+         "description": "Jayden Daniels",
+         "price": 260
+        },
+        {
+         "name": "Yes",
+         "description": "Theo Johnson",
+         "price": 950
+        },
+        {
+         "name": "Yes",
+         "description": "Devin Singletary",
+         "price": 280
+        },
+        {
+         "name": "Yes",
+         "description": "Isaiah Likely",
          "price": 210
         },
         {
          "name": "Yes",
-         "description": "Max Bredeson",
-         "price": 2800
+         "description": "Cam Skattebo",
+         "price": 115
         },
         {
          "name": "Yes",
-         "description": "Myles Price",
+         "description": "Van Jefferson",
          "price": 1000
         },
         {
          "name": "Yes",
-         "description": "Carson Wentz",
-         "price": 900
+         "description": "Malachi Fields",
+         "price": 475
         },
         {
          "name": "Yes",
-         "description": "Odell Beckham Jr.",
-         "price": 1700
+         "description": "Antonio Williams",
+         "price": 390
+        },
+        {
+         "name": "Yes",
+         "description": "Luke McCaffrey",
+         "price": 2000
         }
        ]
       },
       {
        "key": "player_tds_over",
-       "last_update": "2026-11-09T23:57:47Z",
+       "last_update": "2026-11-13T00:03:55Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Khalil Shakir",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Dawson Knox",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ray Davis",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Khalil Shakir",
-         "price": 2200,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Josh Allen",
-         "price": 425,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Dalton Kincaid",
-         "price": 1900,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Buffalo Bills D/ST",
+         "description": "Malachi Fields",
          "price": 3500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "DeeJay Dallas",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Dalton Kincaid",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "James Cook",
-         "price": 500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Josh Allen",
-         "price": 2200,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Buffalo Bills D/ST",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Dawson Knox",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Ray Davis",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "James Cook",
-         "price": 2200,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Ben Yurosek",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ty Johnson",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ty Johnson",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "T.J. Hockenson",
-         "price": 5500,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Keon Coleman",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "T.J. Hockenson",
-         "price": 1700,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jordan Addison",
-         "price": 6000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Keon Coleman",
-         "price": 3000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jackson Hawes",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "DJ Moore",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Jordan Addison",
-         "price": 1900,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Aaron Jones",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "DJ Moore",
-         "price": 1900,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Jefferson",
-         "price": 3500,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Jordan Mason",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Jefferson",
-         "price": 900,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Gavin Bartholomew",
-         "price": 6600,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Aaron Jones",
+         "description": "New York Giants D/ST",
          "price": 1450,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Jordan Mason",
-         "price": 1500,
+         "description": "New York Giants D/ST",
+         "price": 4500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Van Jefferson",
+         "price": 6000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Minnesota Vikings D/ST",
+         "description": "Isaiah Likely",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Mooney",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Mooney",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Washington Commanders D/ST",
+         "price": 5500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Jalin Hyatt",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Austin Ekeler",
+         "price": 2200,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Rachaad White",
+         "price": 4000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Van Jefferson",
          "price": 6600,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Minnesota Vikings D/ST",
+         "description": "Chig Okonkwo",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Ben Sinnott",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Treylon Burks",
+         "price": 3300,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Devin Singletary",
+         "price": 1900,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Charlie Jones",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Cam Skattebo",
+         "price": 600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Robert Henry Jr.",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Austin Ekeler",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Greg Desrosiers Jr.",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Washington Commanders D/ST",
+         "price": 1900,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Devin Singletary",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Cam Skattebo",
+         "price": 2500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Patrick Ricard",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "John Bates",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Rachaad White",
+         "price": 1150,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Jayden Daniels",
+         "price": 1900,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Jayden Daniels",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Antonio Williams",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Treylon Burks",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Chig Okonkwo",
+         "price": 2500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Stefon Diggs",
+         "price": 5500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Stefon Diggs",
+         "price": 1800,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Theo Johnson",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Isaiah Likely",
+         "price": 1450,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Malik Nabers",
+         "price": 1100,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Malachi Fields",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Malik Nabers",
+         "price": 4500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "J.J. McCarthy",
          "price": 3500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Max Bredeson",
-         "price": 6600,
+         "description": "Antonio Williams",
+         "price": 3000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Myles Price",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Carson Wentz",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Carson Wentz",
+         "description": "J.J. McCarthy",
          "price": 5000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Myles Price",
-         "price": 5000,
-         "point": 2.5
+         "description": "Theo Johnson",
+         "price": 5500,
+         "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Odell Beckham Jr.",
-         "price": 6600,
+         "description": "Luke McCaffrey",
+         "price": 5000,
          "point": 1.5
         }
        ]
@@ -1364,367 +1358,373 @@
      "markets": [
       {
        "key": "player_tds_over",
-       "last_update": "2026-11-09T23:57:47Z",
+       "last_update": "2026-11-13T00:02:49Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Josh Allen",
-         "price": -125,
+         "description": "Cam Skattebo",
+         "price": 130,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Josh Allen",
-         "price": 450,
+         "description": "Cam Skattebo",
+         "price": 850,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Josh Allen",
-         "price": 2000,
+         "description": "Cam Skattebo",
+         "price": 3500,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "James Cook",
-         "price": -110,
+         "description": "Malik Nabers",
+         "price": 175,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "James Cook",
-         "price": 550,
+         "description": "Malik Nabers",
+         "price": 1400,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "James Cook",
-         "price": 2200,
+         "description": "Malik Nabers",
+         "price": 5000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Justin Jefferson",
-         "price": 125,
+         "description": "Rachaad White",
+         "price": 175,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Justin Jefferson",
-         "price": 900,
+         "description": "Rachaad White",
+         "price": 1300,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Justin Jefferson",
-         "price": 4000,
+         "description": "Rachaad White",
+         "price": 5000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Jordan Mason",
-         "price": 185,
+         "description": "Isaiah Likely",
+         "price": 200,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Jordan Mason",
-         "price": 1500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jordan Mason",
-         "price": 6000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "T.J. Hockenson",
-         "price": 210,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "T.J. Hockenson",
+         "description": "Isaiah Likely",
          "price": 1800,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "T.J. Hockenson",
+         "description": "Isaiah Likely",
          "price": 6000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Jordan Addison",
-         "price": 250,
+         "description": "Stefon Diggs",
+         "price": 225,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Jordan Addison",
-         "price": 2000,
+         "description": "Stefon Diggs",
+         "price": 1800,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Jordan Addison",
+         "description": "Stefon Diggs",
          "price": 5000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "DJ Moore",
-         "price": 250,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "DJ Moore",
-         "price": 2000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "DJ Moore",
-         "price": 6000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Dalton Kincaid",
+         "description": "Jayden Daniels",
          "price": 260,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Dalton Kincaid",
-         "price": 2000,
+         "description": "Jayden Daniels",
+         "price": 2200,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Dalton Kincaid",
-         "price": 6000,
+         "description": "Jayden Daniels",
+         "price": 5000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Aaron Jones",
+         "description": "Devin Singletary",
          "price": 275,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Aaron Jones",
-         "price": 2200,
+         "description": "Devin Singletary",
+         "price": 2000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Aaron Jones",
-         "price": 5000,
+         "description": "Devin Singletary",
+         "price": 6000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Khalil Shakir",
+         "description": "Austin Ekeler",
          "price": 325,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Khalil Shakir",
+         "description": "Austin Ekeler",
+         "price": 2500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Austin Ekeler",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Chig Okonkwo",
+         "price": 350,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Chig Okonkwo",
          "price": 3000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Khalil Shakir",
+         "description": "Chig Okonkwo",
+         "price": 7500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Treylon Burks",
+         "price": 360,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Treylon Burks",
+         "price": 3000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Treylon Burks",
          "price": 6000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Keon Coleman",
+         "description": "Antonio Williams",
          "price": 400,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Keon Coleman",
-         "price": 3500,
+         "description": "Antonio Williams",
+         "price": 4000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Keon Coleman",
+         "description": "Antonio Williams",
          "price": 7500,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Dawson Knox",
-         "price": 700,
+         "description": "Malachi Fields",
+         "price": 450,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Dawson Knox",
-         "price": 5000,
+         "description": "Malachi Fields",
+         "price": 4000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Dawson Knox",
-         "price": 10000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Ty Johnson",
-         "price": 750,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Ty Johnson",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ty Johnson",
+         "description": "Malachi Fields",
          "price": 7500,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Ben Yurosek",
-         "price": 750,
+         "description": "J.J. McCarthy",
+         "price": 450,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Ben Yurosek",
+         "description": "J.J. McCarthy",
          "price": 5000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Tai Felton",
-         "price": 1000,
+         "description": "J.J. McCarthy",
+         "price": 7500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Van Jefferson",
+         "price": 800,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Tai Felton",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Myles Price",
-         "price": 1000,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Myles Price",
+         "description": "Van Jefferson",
          "price": 6000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Myles Price",
+         "description": "Van Jefferson",
+         "price": 7500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Mooney",
+         "price": 850,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Mooney",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Mooney",
          "price": 10000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Carson Wentz",
-         "price": 1200,
+         "description": "Theo Johnson",
+         "price": 900,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Carson Wentz",
-         "price": 6000,
+         "description": "Theo Johnson",
+         "price": 5000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Gavin Bartholomew",
-         "price": 1300,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Ray Davis",
-         "price": 1300,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Ray Davis",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ray Davis",
-         "price": 10000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Jackson Hawes",
-         "price": 1300,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Jackson Hawes",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "DeeJay Dallas",
+         "description": "John Bates",
          "price": 1500,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "DeeJay Dallas",
+         "description": "John Bates",
          "price": 7500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Max Bredeson",
+         "description": "Luke McCaffrey",
+         "price": 1500,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Luke McCaffrey",
+         "price": 6000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Greg Desrosiers Jr.",
+         "price": 1800,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Greg Desrosiers Jr.",
+         "price": 15000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Charlie Jones",
+         "price": 1800,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Charlie Jones",
+         "price": 10000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Ben Sinnott",
+         "price": 1800,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Robert Henry Jr.",
          "price": 2200,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Greg Dortch",
-         "price": 2200,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Greg Dortch",
+         "description": "Robert Henry Jr.",
          "price": 7500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Keleki Latu",
+         "description": "Patrick Ricard",
+         "price": 2500,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Chris Manhertz",
          "price": 3000,
          "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Chris Manhertz",
+         "price": 10000,
+         "point": 1.5
         }
        ]
       }
