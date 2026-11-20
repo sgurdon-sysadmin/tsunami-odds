@@ -1,66 +1,66 @@
 {
  "sport": "nfl",
- "fetched_at": "2026-11-17T00:02:46.538027+00:00",
- "credits_remaining": "164",
+ "fetched_at": "2026-11-20T00:04:36.142055+00:00",
+ "credits_remaining": "108",
  "books": "draftkings,fanduel,betmgm,caesars,espnbet,fanatics",
  "prop_markets": "player_anytime_td,player_tds_over",
  "games": [
   {
-   "id": "35e3bdff558b5d1506251e814986f164",
+   "id": "66f9e83cf025d58acee12bce18661fb3",
    "sport_key": "americanfootball_nfl",
    "sport_title": "NFL",
-   "commence_time": "2026-11-17T01:15:00Z",
-   "home_team": "Baltimore Ravens",
-   "away_team": "Los Angeles Chargers",
+   "commence_time": "2026-11-20T01:15:00Z",
+   "home_team": "Houston Texans",
+   "away_team": "Indianapolis Colts",
    "bookmakers": [
     {
      "key": "draftkings",
      "title": "DraftKings",
-     "last_update": "2026-11-17T00:01:40Z",
+     "last_update": "2026-11-20T00:04:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-17T00:01:40Z",
+       "last_update": "2026-11-20T00:04:00Z",
        "outcomes": [
         {
-         "name": "Baltimore Ravens",
-         "price": -225
+         "name": "Houston Texans",
+         "price": -750
         },
         {
-         "name": "Los Angeles Chargers",
-         "price": 185
+         "name": "Indianapolis Colts",
+         "price": 533
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-11-17T00:01:40Z",
+       "last_update": "2026-11-20T00:04:00Z",
        "outcomes": [
         {
-         "name": "Baltimore Ravens",
-         "price": -112,
-         "point": -4.5
+         "name": "Houston Texans",
+         "price": -106,
+         "point": -12.5
         },
         {
-         "name": "Los Angeles Chargers",
-         "price": -108,
-         "point": 4.5
+         "name": "Indianapolis Colts",
+         "price": -114,
+         "point": 12.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-11-17T00:01:40Z",
+       "last_update": "2026-11-20T00:04:00Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -108,
-         "point": 39.5
+         "price": -104,
+         "point": 44.5
         },
         {
          "name": "Under",
-         "price": -112,
-         "point": 39.5
+         "price": -116,
+         "point": 44.5
         }
        ]
       }
@@ -69,104 +69,51 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-11-17T00:02:37Z",
+     "last_update": "2026-11-20T00:04:32Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-17T00:02:36Z",
+       "last_update": "2026-11-20T00:04:31Z",
        "outcomes": [
         {
-         "name": "Baltimore Ravens",
-         "price": -230
+         "name": "Houston Texans",
+         "price": -820
         },
         {
-         "name": "Los Angeles Chargers",
-         "price": 190
+         "name": "Indianapolis Colts",
+         "price": 570
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-11-17T00:02:36Z",
+       "last_update": "2026-11-20T00:04:31Z",
        "outcomes": [
         {
-         "name": "Baltimore Ravens",
-         "price": -110,
-         "point": -4.5
+         "name": "Houston Texans",
+         "price": -105,
+         "point": -12.5
         },
         {
-         "name": "Los Angeles Chargers",
-         "price": -110,
-         "point": 4.5
+         "name": "Indianapolis Colts",
+         "price": -115,
+         "point": 12.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-11-17T00:02:36Z",
+       "last_update": "2026-11-20T00:04:31Z",
        "outcomes": [
         {
          "name": "Over",
          "price": -105,
-         "point": 39.5
+         "point": 44.5
         },
         {
          "name": "Under",
          "price": -115,
-         "point": 39.5
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betmgm",
-     "title": "BetMGM",
-     "last_update": "2026-11-17T00:01:41Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-17T00:01:41Z",
-       "outcomes": [
-        {
-         "name": "Baltimore Ravens",
-         "price": -225
-        },
-        {
-         "name": "Los Angeles Chargers",
-         "price": 185
-        }
-       ]
-      },
-      {
-       "key": "spreads",
-       "last_update": "2026-11-17T00:01:41Z",
-       "outcomes": [
-        {
-         "name": "Baltimore Ravens",
-         "price": -108,
-         "point": -4.5
-        },
-        {
-         "name": "Los Angeles Chargers",
-         "price": -110,
-         "point": 4.5
-        }
-       ]
-      },
-      {
-       "key": "totals",
-       "last_update": "2026-11-17T00:01:41Z",
-       "outcomes": [
-        {
-         "name": "Over",
-         "price": -108,
-         "point": 39.5
-        },
-        {
-         "name": "Under",
-         "price": -110,
-         "point": 39.5
+         "point": 44.5
         }
        ]
       }
@@ -175,51 +122,104 @@
     {
      "key": "espnbet",
      "title": "theScore Bet",
-     "last_update": "2026-11-17T00:01:58Z",
+     "last_update": "2026-11-20T00:04:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-17T00:01:57Z",
+       "last_update": "2026-11-20T00:04:00Z",
        "outcomes": [
         {
-         "name": "Baltimore Ravens",
-         "price": -215
+         "name": "Houston Texans",
+         "price": -800
         },
         {
-         "name": "Los Angeles Chargers",
-         "price": 180
+         "name": "Indianapolis Colts",
+         "price": 500
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-11-17T00:01:57Z",
+       "last_update": "2026-11-20T00:04:00Z",
        "outcomes": [
         {
-         "name": "Baltimore Ravens",
-         "price": -110,
-         "point": -4.5
+         "name": "Houston Texans",
+         "price": -115,
+         "point": -11.5
         },
         {
-         "name": "Los Angeles Chargers",
-         "price": -110,
-         "point": 4.5
+         "name": "Indianapolis Colts",
+         "price": -105,
+         "point": 11.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-11-17T00:01:57Z",
+       "last_update": "2026-11-20T00:04:00Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -105,
-         "point": 39.5
+         "price": 100,
+         "point": 44.5
         },
         {
          "name": "Under",
-         "price": -115,
-         "point": 39.5
+         "price": -120,
+         "point": 44.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betmgm",
+     "title": "BetMGM",
+     "last_update": "2026-11-20T00:02:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-20T00:02:55Z",
+       "outcomes": [
+        {
+         "name": "Houston Texans",
+         "price": -700
+        },
+        {
+         "name": "Indianapolis Colts",
+         "price": 550
+        }
+       ]
+      },
+      {
+       "key": "spreads",
+       "last_update": "2026-11-20T00:02:55Z",
+       "outcomes": [
+        {
+         "name": "Houston Texans",
+         "price": -102,
+         "point": -12.5
+        },
+        {
+         "name": "Indianapolis Colts",
+         "price": -108,
+         "point": 12.5
+        }
+       ]
+      },
+      {
+       "key": "totals",
+       "last_update": "2026-11-20T00:02:55Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "price": -108,
+         "point": 44.0
+        },
+        {
+         "name": "Under",
+         "price": -110,
+         "point": 44.0
         }
        ]
       }
@@ -233,432 +233,410 @@
      "markets": [
       {
        "key": "player_anytime_td",
-       "last_update": "2026-11-17T00:01:48Z",
+       "last_update": "2026-11-20T00:03:35Z",
        "outcomes": [
         {
          "name": "Yes",
-         "description": "Derrick Henry",
-         "price": -155
+         "description": "David Montgomery",
+         "price": -135
         },
         {
          "name": "Yes",
-         "description": "Zay Flowers",
-         "price": 165
+         "description": "Nico Collins",
+         "price": 105
         },
         {
          "name": "Yes",
-         "description": "Omarion Hampton",
-         "price": 295
+         "description": "Jonathan Taylor",
+         "price": 125
         },
         {
          "name": "Yes",
-         "description": "Tre Harris",
-         "price": 340
+         "description": "Dalton Schultz",
+         "price": 205
         },
         {
          "name": "Yes",
-         "description": "Mark Andrews",
+         "description": "Xavier Hutchinson",
+         "price": 240
+        },
+        {
+         "name": "Yes",
+         "description": "Tank Dell",
+         "price": 250
+        },
+        {
+         "name": "Yes",
+         "description": "Tyler Warren",
+         "price": 310
+        },
+        {
+         "name": "Yes",
+         "description": "Kayshon Boutte",
          "price": 350
         },
         {
          "name": "Yes",
-         "description": "Justice Hill",
+         "description": "Emari Demercado",
+         "price": 390
+        },
+        {
+         "name": "Yes",
+         "description": "Seth McGowan",
+         "price": 400
+        },
+        {
+         "name": "Yes",
+         "description": "Houston Texans D/ST",
          "price": 450
         },
         {
          "name": "Yes",
-         "description": "Ja'Kobi Lane",
+         "description": "C.J. Stroud",
          "price": 450
         },
         {
          "name": "Yes",
-         "description": "Quentin Johnston",
-         "price": 450
-        },
-        {
-         "name": "Yes",
-         "description": "Kimani Vidal",
+         "description": "Laquon Treadwell",
          "price": 500
         },
         {
          "name": "Yes",
-         "description": "Baltimore Ravens D/ST",
-         "price": 500
-        },
-        {
-         "name": "Yes",
-         "description": "Rashod Bateman",
+         "description": "Foster Moreau",
          "price": 550
         },
         {
          "name": "Yes",
-         "description": "Los Angeles Chargers D/ST",
-         "price": 550
-        },
-        {
-         "name": "Yes",
-         "description": "Jacoby Brissett",
+         "description": "Indianapolis Colts D/ST",
          "price": 600
         },
         {
          "name": "Yes",
-         "description": "Keaton Mitchell",
-         "price": 600
+         "description": "Anthony Gould",
+         "price": 700
         },
         {
          "name": "Yes",
-         "description": "Justin Herbert",
-         "price": 600
-        },
-        {
-         "name": "Yes",
-         "description": "Charlie Kolar",
-         "price": 650
-        },
-        {
-         "name": "Yes",
-         "description": "Oronde Gadsden II",
-         "price": 650
-        },
-        {
-         "name": "Yes",
-         "description": "David Njoku",
+         "description": "Daniel Jones",
          "price": 750
         },
         {
          "name": "Yes",
-         "description": "KeAndre Lambert-Smith",
-         "price": 800
+         "description": "Deion Burks",
+         "price": 850
         },
         {
          "name": "Yes",
-         "description": "Josh Cuevas",
-         "price": 1000
+         "description": "Ashton Dulin",
+         "price": 1100
         },
         {
          "name": "Yes",
-         "description": "Matthew Hibner",
-         "price": 1400
+         "description": "Marlin Klein",
+         "price": 1200
         },
         {
          "name": "Yes",
-         "description": "Derius Davis",
-         "price": 1600
+         "description": "Cade Stover",
+         "price": 1200
         },
         {
          "name": "Yes",
-         "description": "Devontez Walker",
-         "price": 1700
+         "description": "Drew Ogletree",
+         "price": 1800
         },
         {
          "name": "Yes",
-         "description": "LaJohntay Wester",
-         "price": 2000
-        },
-        {
-         "name": "Yes",
-         "description": "Chris Moore",
-         "price": 2000
-        },
-        {
-         "name": "Yes",
-         "description": "Nick Vannett",
+         "description": "Nick Westbrook-Ikhine",
          "price": 2500
         },
         {
          "name": "Yes",
-         "description": "Rasheen Ali",
-         "price": 2800
-        },
-        {
-         "name": "Yes",
-         "description": "Theo Wease Jr.",
+         "description": "DJ Giddens",
          "price": 3000
         },
         {
          "name": "Yes",
-         "description": "Scott Matlock",
-         "price": 4000
+         "description": "Nikko Remigio",
+         "price": 3500
+        },
+        {
+         "name": "Yes",
+         "description": "Pharaoh Brown",
+         "price": 4500
+        },
+        {
+         "name": "Yes",
+         "description": "Quez Watkins",
+         "price": 5500
         }
        ]
       },
       {
        "key": "player_tds_over",
-       "last_update": "2026-11-17T00:01:48Z",
+       "last_update": "2026-11-20T00:03:35Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Derrick Henry",
-         "price": 370,
+         "description": "David Montgomery",
+         "price": 450,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Zay Flowers",
-         "price": 1300,
+         "description": "Nico Collins",
+         "price": 650,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Omarion Hampton",
-         "price": 2800,
+         "description": "Jonathan Taylor",
+         "price": 850,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Tre Harris",
+         "description": "Dalton Schultz",
+         "price": 1700,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
+         "price": 2000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Tank Dell",
+         "price": 2200,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Emari Demercado",
+         "price": 3000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Tyler Warren",
+         "price": 3000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Houston Texans D/ST",
          "price": 3500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Mark Andrews",
-         "price": 4000,
+         "description": "Kayshon Boutte",
+         "price": 3500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Justice Hill",
+         "description": "Seth McGowan",
+         "price": 4500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "C.J. Stroud",
          "price": 5000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Baltimore Ravens D/ST",
-         "price": 5000,
+         "description": "Indianapolis Colts D/ST",
+         "price": 6500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Ja'Kobi Lane",
-         "price": 5500,
+         "description": "Foster Moreau",
+         "price": 6500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Quentin Johnston",
-         "price": 5500,
+         "description": "Laquon Treadwell",
+         "price": 6500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Los Angeles Chargers D/ST",
-         "price": 5500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Rashod Bateman",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Kimani Vidal",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jacoby Brissett",
-         "price": 7000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
-         "price": 7500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Herbert",
+         "description": "Anthony Gould",
          "price": 8000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 8000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "David Njoku",
-         "price": 9000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Oronde Gadsden II",
-         "price": 9000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "KeAndre Lambert-Smith",
+         "description": "Daniel Jones",
          "price": 10000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Josh Cuevas",
-         "price": 13000,
+         "description": "Deion Burks",
+         "price": 11000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Matthew Hibner",
-         "price": 15000,
+         "description": "Cade Stover",
+         "price": 16000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Derius Davis",
+         "description": "Marlin Klein",
+         "price": 16000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Ashton Dulin",
          "price": 17000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Devontez Walker",
-         "price": 19000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Nick Vannett",
+         "description": "Drew Ogletree",
          "price": 20000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "LaJohntay Wester",
-         "price": 20000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Chris Moore",
-         "price": 20000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Rasheen Ali",
+         "description": "DJ Giddens",
          "price": 25000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Theo Wease Jr.",
+         "description": "Pharaoh Brown",
          "price": 25000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Derrick Henry",
-         "price": 1700,
+         "description": "Quez Watkins",
+         "price": 25000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Nick Westbrook-Ikhine",
+         "price": 25000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "David Montgomery",
+         "price": 2000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Zay Flowers",
-         "price": 7000,
+         "description": "Nico Collins",
+         "price": 3000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Tre Harris",
+         "description": "Jonathan Taylor",
+         "price": 4500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Dalton Schultz",
+         "price": 9000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
+         "price": 10000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Tank Dell",
+         "price": 10000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Tyler Warren",
+         "price": 14000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Emari Demercado",
          "price": 15000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Omarion Hampton",
+         "description": "Houston Texans D/ST",
          "price": 15000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Mark Andrews",
+         "description": "Kayshon Boutte",
          "price": 16000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Justice Hill",
+         "description": "Indianapolis Colts D/ST",
+         "price": 17000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "C.J. Stroud",
          "price": 18000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Baltimore Ravens D/ST",
-         "price": 19000,
+         "description": "Seth McGowan",
+         "price": 18000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Los Angeles Chargers D/ST",
-         "price": 19000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Ja'Kobi Lane",
+         "description": "Deion Burks",
          "price": 20000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Jacoby Brissett",
+         "description": "Foster Moreau",
          "price": 20000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Rashod Bateman",
+         "description": "Laquon Treadwell",
          "price": 20000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 20000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Quentin Johnston",
-         "price": 20000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
+         "description": "Marlin Klein",
          "price": 25000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Josh Cuevas",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Oronde Gadsden II",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Herbert",
-         "price": 25000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "David Njoku",
+         "description": "Daniel Jones",
          "price": 25000,
          "point": 2.5
         }
@@ -672,725 +650,286 @@
      "markets": [
       {
        "key": "player_anytime_td",
-       "last_update": "2026-11-17T00:01:50Z",
+       "last_update": "2026-11-20T00:04:27Z",
        "outcomes": [
         {
          "name": "Yes",
-         "description": "Derrick Henry",
-         "price": -140
+         "description": "David Montgomery",
+         "price": -135
         },
         {
          "name": "Yes",
-         "description": "Zay Flowers",
-         "price": 170
+         "description": "Nico Collins",
+         "price": 105
         },
         {
          "name": "Yes",
-         "description": "Omarion Hampton",
-         "price": 300
+         "description": "Jonathan Taylor",
+         "price": 120
         },
         {
          "name": "Yes",
-         "description": "Tre Harris",
-         "price": 340
+         "description": "Dalton Schultz",
+         "price": 200
         },
         {
          "name": "Yes",
-         "description": "Mark Andrews",
-         "price": 380
+         "description": "Tank Dell",
+         "price": 250
         },
         {
          "name": "Yes",
-         "description": "Quentin Johnston",
-         "price": 460
+         "description": "Xavier Hutchinson",
+         "price": 250
         },
         {
          "name": "Yes",
-         "description": "Justice Hill",
-         "price": 460
-        },
-        {
-         "name": "Yes",
-         "description": "Ja'Kobi Lane",
-         "price": 480
-        },
-        {
-         "name": "Yes",
-         "description": "Kimani Vidal",
-         "price": 480
-        },
-        {
-         "name": "Yes",
-         "description": "Jacoby Brissett",
-         "price": 500
-        },
-        {
-         "name": "Yes",
-         "description": "Rashod Bateman",
-         "price": 500
-        },
-        {
-         "name": "Yes",
-         "description": "Keaton Mitchell",
-         "price": 600
-        },
-        {
-         "name": "Yes",
-         "description": "Justin Herbert",
-         "price": 600
-        },
-        {
-         "name": "Yes",
-         "description": "Los Angeles Chargers Defense",
-         "price": 650
-        },
-        {
-         "name": "Yes",
-         "description": "Charlie Kolar",
-         "price": 650
-        },
-        {
-         "name": "Yes",
-         "description": "Oronde Gadsden II",
-         "price": 700
-        },
-        {
-         "name": "Yes",
-         "description": "KeAndre Lambert-Smith",
-         "price": 750
-        },
-        {
-         "name": "Yes",
-         "description": "Baltimore Ravens Defense",
-         "price": 750
-        },
-        {
-         "name": "Yes",
-         "description": "David Njoku",
-         "price": 800
-        },
-        {
-         "name": "Yes",
-         "description": "Josh Cuevas",
-         "price": 1100
-        },
-        {
-         "name": "Yes",
-         "description": "Matthew Hibner",
-         "price": 1300
-        },
-        {
-         "name": "Yes",
-         "description": "Derius Davis",
-         "price": 1400
-        },
-        {
-         "name": "Yes",
-         "description": "Devontez Walker",
-         "price": 1700
-        },
-        {
-         "name": "Yes",
-         "description": "Chris Moore",
-         "price": 2000
-        },
-        {
-         "name": "Yes",
-         "description": "LaJohntay Wester",
-         "price": 2500
-        },
-        {
-         "name": "Yes",
-         "description": "Theo Wease Jr.",
-         "price": 2700
-        },
-        {
-         "name": "Yes",
-         "description": "Rasheen Ali",
-         "price": 2700
-        },
-        {
-         "name": "Yes",
-         "description": "Nick Vannett",
-         "price": 2700
-        },
-        {
-         "name": "Yes",
-         "description": "Scott Matlock",
-         "price": 4500
-        }
-       ]
-      },
-      {
-       "key": "player_tds_over",
-       "last_update": "2026-11-17T00:01:50Z",
-       "outcomes": [
-        {
-         "name": "Over",
-         "description": "Derrick Henry",
-         "price": 430,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Zay Flowers",
-         "price": 1300,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Omarion Hampton",
-         "price": 2700,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Tre Harris",
-         "price": 4000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Mark Andrews",
-         "price": 4500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Justice Hill",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Kimani Vidal",
-         "price": 5500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Quentin Johnston",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Rashod Bateman",
-         "price": 6500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ja'Kobi Lane",
-         "price": 6500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jacoby Brissett",
-         "price": 8000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Herbert",
-         "price": 8000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
-         "price": 8000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Los Angeles Chargers Defense",
-         "price": 8000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Baltimore Ravens Defense",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "KeAndre Lambert-Smith",
-         "price": 10000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Oronde Gadsden II",
-         "price": 12500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "David Njoku",
-         "price": 12500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Derrick Henry",
-         "price": 2200,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Zay Flowers",
-         "price": 10000,
-         "point": 2.5
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betmgm",
-     "title": "BetMGM",
-     "markets": [
-      {
-       "key": "player_anytime_td",
-       "last_update": "2026-11-17T00:01:47Z",
-       "outcomes": [
-        {
-         "name": "Yes",
-         "description": "David Njoku",
-         "price": 650
-        },
-        {
-         "name": "Yes",
-         "description": "LaJohntay Wester",
-         "price": 1650
-        },
-        {
-         "name": "Yes",
-         "description": "Rashod Bateman",
-         "price": 450
-        },
-        {
-         "name": "Yes",
-         "description": "Omarion Hampton",
-         "price": 220
-        },
-        {
-         "name": "Yes",
-         "description": "Charlie Kolar",
-         "price": 700
-        },
-        {
-         "name": "Yes",
-         "description": "Matthew Hibner",
-         "price": 1050
-        },
-        {
-         "name": "Yes",
-         "description": "Ja'Kobi Lane",
-         "price": 390
-        },
-        {
-         "name": "Yes",
-         "description": "Scott Matlock",
-         "price": 2800
-        },
-        {
-         "name": "Yes",
-         "description": "Devontez Walker",
-         "price": 1400
-        },
-        {
-         "name": "Yes",
-         "description": "Derrick Henry",
-         "price": -155
-        },
-        {
-         "name": "Yes",
-         "description": "Jacoby Brissett",
-         "price": 700
-        },
-        {
-         "name": "Yes",
-         "description": "Mark Andrews",
-         "price": 350
-        },
-        {
-         "name": "Yes",
-         "description": "Josh Cuevas",
-         "price": 850
-        },
-        {
-         "name": "Yes",
-         "description": "Justice Hill",
-         "price": 475
-        },
-        {
-         "name": "Yes",
-         "description": "Baltimore Ravens D/ST",
-         "price": 450
-        },
-        {
-         "name": "Yes",
-         "description": "Quentin Johnston",
-         "price": 360
-        },
-        {
-         "name": "Yes",
-         "description": "Keaton Mitchell",
-         "price": 400
-        },
-        {
-         "name": "Yes",
-         "description": "Kimani Vidal",
-         "price": 360
-        },
-        {
-         "name": "Yes",
-         "description": "Los Angeles Chargers D/ST",
-         "price": 650
-        },
-        {
-         "name": "Yes",
-         "description": "Tre Harris",
+         "description": "Tyler Warren",
          "price": 310
         },
         {
          "name": "Yes",
-         "description": "Zay Flowers",
-         "price": 150
+         "description": "Kayshon Boutte",
+         "price": 360
         },
         {
          "name": "Yes",
-         "description": "Oronde Gadsden II",
-         "price": 650
+         "description": "Emari Demercado",
+         "price": 370
         },
         {
          "name": "Yes",
-         "description": "Justin Herbert",
-         "price": 475
+         "description": "Seth McGowan",
+         "price": 400
         },
         {
          "name": "Yes",
-         "description": "KeAndre Lambert-Smith",
-         "price": 575
+         "description": "C.J. Stroud",
+         "price": 430
         },
         {
          "name": "Yes",
-         "description": "Rasheen Ali",
-         "price": 2000
+         "description": "Foster Moreau",
+         "price": 500
         },
         {
          "name": "Yes",
-         "description": "Nick Vannett",
-         "price": 2800
+         "description": "Laquon Treadwell",
+         "price": 500
         },
         {
          "name": "Yes",
-         "description": "Derius Davis",
+         "description": "Houston Texans Defense",
+         "price": 550
+        },
+        {
+         "name": "Yes",
+         "description": "Anthony Gould",
+         "price": 750
+        },
+        {
+         "name": "Yes",
+         "description": "Daniel Jones",
+         "price": 800
+        },
+        {
+         "name": "Yes",
+         "description": "Deion Burks",
+         "price": 800
+        },
+        {
+         "name": "Yes",
+         "description": "Indianapolis Colts Defense",
+         "price": 950
+        },
+        {
+         "name": "Yes",
+         "description": "Ashton Dulin",
+         "price": 1100
+        },
+        {
+         "name": "Yes",
+         "description": "Marlin Klein",
+         "price": 1200
+        },
+        {
+         "name": "Yes",
+         "description": "Cade Stover",
+         "price": 1300
+        },
+        {
+         "name": "Yes",
+         "description": "Drew Ogletree",
          "price": 1600
+        },
+        {
+         "name": "Yes",
+         "description": "Nick Westbrook-Ikhine",
+         "price": 2200
+        },
+        {
+         "name": "Yes",
+         "description": "Nikko Remigio",
+         "price": 3300
+        },
+        {
+         "name": "Yes",
+         "description": "DJ Giddens",
+         "price": 3500
+        },
+        {
+         "name": "Yes",
+         "description": "Pharaoh Brown",
+         "price": 4000
+        },
+        {
+         "name": "Yes",
+         "description": "Quez Watkins",
+         "price": 4000
         }
        ]
       },
       {
        "key": "player_tds_over",
-       "last_update": "2026-11-17T00:01:47Z",
+       "last_update": "2026-11-20T00:04:27Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Mark Andrews",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Quentin Johnston",
-         "price": 6000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Los Angeles Chargers D/ST",
-         "price": 4000,
+         "description": "David Montgomery",
+         "price": 460,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Mark Andrews",
-         "price": 3000,
+         "description": "Nico Collins",
+         "price": 750,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Scott Matlock",
-         "price": 6600,
+         "description": "Jonathan Taylor",
+         "price": 850,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Josh Cuevas",
-         "price": 5500,
+         "description": "Dalton Schultz",
+         "price": 1700,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Devontez Walker",
-         "price": 6600,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Los Angeles Chargers D/ST",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Matthew Hibner",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Tre Harris",
-         "price": 6000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Justice Hill",
-         "price": 3500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jacoby Brissett",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Tre Harris",
+         "description": "Xavier Hutchinson",
          "price": 2200,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Zay Flowers",
-         "price": 950,
+         "description": "Tank Dell",
+         "price": 2500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Ja'Kobi Lane",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Kimani Vidal",
-         "price": 2800,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Derrick Henry",
-         "price": 310,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Derrick Henry",
-         "price": 1300,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ja'Kobi Lane",
-         "price": 2800,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Omarion Hampton",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Baltimore Ravens D/ST",
-         "price": 1750,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Quentin Johnston",
-         "price": 3000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jacoby Brissett",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Omarion Hampton",
-         "price": 1500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "David Njoku",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
+         "description": "Tyler Warren",
          "price": 3300,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Baltimore Ravens D/ST",
-         "price": 5000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Rasheen Ali",
-         "price": 6600,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Rashod Bateman",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Zay Flowers",
-         "price": 4000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "LaJohntay Wester",
-         "price": 6600,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Kimani Vidal",
-         "price": 6000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Oronde Gadsden II",
-         "price": 4000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Herbert",
-         "price": 4000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Justice Hill",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Herbert",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Rashod Bateman",
+         "description": "Emari Demercado",
          "price": 3500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Oronde Gadsden II",
-         "price": 5000,
-         "point": 2.5
+         "description": "Kayshon Boutte",
+         "price": 4000,
+         "point": 1.5
         },
         {
          "name": "Over",
-         "description": "KeAndre Lambert-Smith",
+         "description": "C.J. Stroud",
          "price": 4500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "KeAndre Lambert-Smith",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "David Njoku",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Josh Cuevas",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Matthew Hibner",
-         "price": 6600,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Derius Davis",
-         "price": 5000,
+         "description": "Seth McGowan",
+         "price": 4500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Nick Vannett",
-         "price": 5000,
+         "description": "Houston Texans Defense",
+         "price": 7000,
          "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Foster Moreau",
+         "price": 7000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Laquon Treadwell",
+         "price": 7500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Deion Burks",
+         "price": 12500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Anthony Gould",
+         "price": 12500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Daniel Jones",
+         "price": 12500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Indianapolis Colts Defense",
+         "price": 15000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "David Montgomery",
+         "price": 2500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Nico Collins",
+         "price": 4500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Jonathan Taylor",
+         "price": 5500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Dalton Schultz",
+         "price": 15000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
+         "price": 17500,
+         "point": 2.5
         }
        ]
       }
@@ -1402,367 +941,796 @@
      "markets": [
       {
        "key": "player_tds_over",
-       "last_update": "2026-11-17T00:02:14Z",
+       "last_update": "2026-11-20T00:03:23Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Derrick Henry",
-         "price": -145,
+         "description": "David Montgomery",
+         "price": -130,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Derrick Henry",
-         "price": 375,
+         "description": "David Montgomery",
+         "price": 450,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Derrick Henry",
-         "price": 1800,
+         "description": "David Montgomery",
+         "price": 2000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Zay Flowers",
-         "price": 165,
+         "description": "Nico Collins",
+         "price": 105,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Zay Flowers",
-         "price": 1300,
+         "description": "Nico Collins",
+         "price": 650,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Zay Flowers",
+         "description": "Nico Collins",
+         "price": 3000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Jonathan Taylor",
+         "price": 125,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Jonathan Taylor",
+         "price": 850,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Jonathan Taylor",
+         "price": 3500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Dalton Schultz",
+         "price": 200,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Dalton Schultz",
+         "price": 1600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Dalton Schultz",
+         "price": 6000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
+         "price": 225,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
+         "price": 1800,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
          "price": 5000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Omarion Hampton",
+         "description": "Tank Dell",
+         "price": 250,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Tank Dell",
+         "price": 2000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Tank Dell",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Tyler Warren",
          "price": 300,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Omarion Hampton",
+         "description": "Tyler Warren",
          "price": 2500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Omarion Hampton",
+         "description": "Tyler Warren",
          "price": 6000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Tre Harris",
+         "description": "Kayshon Boutte",
          "price": 325,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Tre Harris",
+         "description": "Kayshon Boutte",
          "price": 3000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Tre Harris",
+         "description": "Kayshon Boutte",
          "price": 6000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Mark Andrews",
-         "price": 360,
+         "description": "Emari Demercado",
+         "price": 375,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Mark Andrews",
-         "price": 3500,
+         "description": "Emari Demercado",
+         "price": 2500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Mark Andrews",
+         "description": "Emari Demercado",
          "price": 6000,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Justice Hill",
-         "price": 450,
+         "description": "Seth McGowan",
+         "price": 400,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Justice Hill",
+         "description": "Seth McGowan",
          "price": 4000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Justice Hill",
-         "price": 7500,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Quentin Johnston",
+         "description": "C.J. Stroud",
          "price": 450,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Quentin Johnston",
+         "description": "C.J. Stroud",
          "price": 4000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Quentin Johnston",
-         "price": 7500,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Ja'Kobi Lane",
-         "price": 450,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Ja'Kobi Lane",
-         "price": 4000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Ja'Kobi Lane",
-         "price": 7500,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Rashod Bateman",
+         "description": "Laquon Treadwell",
          "price": 500,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Rashod Bateman",
-         "price": 4000,
+         "description": "Laquon Treadwell",
+         "price": 5000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Rashod Bateman",
+         "description": "Laquon Treadwell",
          "price": 7500,
          "point": 2.5
         },
         {
          "name": "Over",
-         "description": "Kimani Vidal",
-         "price": 500,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Kimani Vidal",
-         "price": 4000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jacoby Brissett",
+         "description": "Foster Moreau",
          "price": 550,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Jacoby Brissett",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Jacoby Brissett",
-         "price": 7500,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Herbert",
-         "price": 600,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Justin Herbert",
+         "description": "Foster Moreau",
          "price": 6000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Justin Herbert",
-         "price": 10000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
-         "price": 600,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
-         "price": 10000,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 650,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 5000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Charlie Kolar",
-         "price": 7500,
-         "point": 2.5
-        },
-        {
-         "name": "Over",
-         "description": "Oronde Gadsden II",
-         "price": 700,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Oronde Gadsden II",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "KeAndre Lambert-Smith",
+         "description": "Anthony Gould",
          "price": 750,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "KeAndre Lambert-Smith",
-         "price": 5000,
+         "description": "Anthony Gould",
+         "price": 6000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "David Njoku",
+         "description": "Daniel Jones",
          "price": 750,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "David Njoku",
+         "description": "Daniel Jones",
          "price": 6000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Josh Cuevas",
-         "price": 1000,
+         "description": "Deion Burks",
+         "price": 800,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Josh Cuevas",
+         "description": "Deion Burks",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Deion Burks",
+         "price": 7500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Ashton Dulin",
+         "price": 1100,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Ashton Dulin",
          "price": 7500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Matthew Hibner",
-         "price": 1300,
+         "description": "Marlin Klein",
+         "price": 1200,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Matthew Hibner",
+         "description": "Marlin Klein",
+         "price": 10000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Cade Stover",
+         "price": 1200,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Cade Stover",
          "price": 6000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Derius Davis",
-         "price": 1400,
-         "point": 0.5
-        },
-        {
-         "name": "Over",
-         "description": "Derius Davis",
-         "price": 6000,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "Devontez Walker",
+         "description": "Drew Ogletree",
          "price": 1600,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Devontez Walker",
-         "price": 7500,
-         "point": 1.5
-        },
-        {
-         "name": "Over",
-         "description": "LaJohntay Wester",
+         "description": "Nick Westbrook-Ikhine",
          "price": 2000,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "LaJohntay Wester",
+         "description": "Nick Westbrook-Ikhine",
          "price": 7500,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Rasheen Ali",
-         "price": 2500,
+         "description": "DJ Giddens",
+         "price": 3000,
          "point": 0.5
         },
         {
          "name": "Over",
-         "description": "Rasheen Ali",
+         "description": "DJ Giddens",
          "price": 10000,
          "point": 1.5
         },
         {
          "name": "Over",
-         "description": "Scott Matlock",
+         "description": "Nikko Remigio",
+         "price": 3000,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Pharaoh Brown",
          "price": 3500,
          "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Quez Watkins",
+         "price": 3500,
+         "point": 0.5
+        },
+        {
+         "name": "Over",
+         "description": "Quez Watkins",
+         "price": 7500,
+         "point": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betmgm",
+     "title": "BetMGM",
+     "markets": [
+      {
+       "key": "player_anytime_td",
+       "last_update": "2026-11-20T00:04:26Z",
+       "outcomes": [
+        {
+         "name": "Yes",
+         "description": "Deion Burks",
+         "price": 750
+        },
+        {
+         "name": "Yes",
+         "description": "Houston Texans D/ST",
+         "price": 360
+        },
+        {
+         "name": "Yes",
+         "description": "Dare Ogunbowale",
+         "price": 700
+        },
+        {
+         "name": "Yes",
+         "description": "Indianapolis Colts D/ST",
+         "price": 700
+        },
+        {
+         "name": "Yes",
+         "description": "Emari Demercado",
+         "price": 425
+        },
+        {
+         "name": "Yes",
+         "description": "Kayshon Boutte",
+         "price": 350
+        },
+        {
+         "name": "Yes",
+         "description": "Foster Moreau",
+         "price": 550
+        },
+        {
+         "name": "Yes",
+         "description": "Cade Stover",
+         "price": 950
+        },
+        {
+         "name": "Yes",
+         "description": "Xavier Hutchinson",
+         "price": 240
+        },
+        {
+         "name": "Yes",
+         "description": "Pharaoh Brown",
+         "price": 3300
+        },
+        {
+         "name": "Yes",
+         "description": "David Montgomery",
+         "price": -135
+        },
+        {
+         "name": "Yes",
+         "description": "Daniel Jones",
+         "price": 700
+        },
+        {
+         "name": "Yes",
+         "description": "Ashton Dulin",
+         "price": 850
+        },
+        {
+         "name": "Yes",
+         "description": "Nikko Remigio",
+         "price": 1300
+        },
+        {
+         "name": "Yes",
+         "description": "DJ Giddens",
+         "price": 3500
+        },
+        {
+         "name": "Yes",
+         "description": "Laquon Treadwell",
+         "price": 500
+        },
+        {
+         "name": "Yes",
+         "description": "Jonathan Taylor",
+         "price": 125
+        },
+        {
+         "name": "Yes",
+         "description": "Seth McGowan",
+         "price": 340
+        },
+        {
+         "name": "Yes",
+         "description": "Nick Westbrook-Ikhine",
+         "price": 1850
+        },
+        {
+         "name": "Yes",
+         "description": "Dalton Schultz",
+         "price": 210
+        },
+        {
+         "name": "Yes",
+         "description": "Tyler Warren",
+         "price": 310
+        },
+        {
+         "name": "Yes",
+         "description": "Tank Dell",
+         "price": 225
+        },
+        {
+         "name": "Yes",
+         "description": "Drew Ogletree",
+         "price": 1500
+        },
+        {
+         "name": "Yes",
+         "description": "Anthony Gould",
+         "price": 675
+        },
+        {
+         "name": "Yes",
+         "description": "C.J. Stroud",
+         "price": 450
+        },
+        {
+         "name": "Yes",
+         "description": "Nico Collins",
+         "price": 105
+        },
+        {
+         "name": "Yes",
+         "description": "Marlin Klein",
+         "price": 1450
+        }
+       ]
+      },
+      {
+       "key": "player_tds_over",
+       "last_update": "2026-11-20T00:04:26Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Nikko Remigio",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Indianapolis Colts D/ST",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Indianapolis Colts D/ST",
+         "price": 4500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Emari Demercado",
+         "price": 3300,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Houston Texans D/ST",
+         "price": 4000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Foster Moreau",
+         "price": 4500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Dare Ogunbowale",
+         "price": 4500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Laquon Treadwell",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "David Montgomery",
+         "price": 400,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Deion Burks",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Ashton Dulin",
+         "price": 5500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Houston Texans D/ST",
+         "price": 1250,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Cade Stover",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Tank Dell",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Dalton Schultz",
+         "price": 1550,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Tank Dell",
+         "price": 1500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "C.J. Stroud",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Daniel Jones",
+         "price": 5000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Foster Moreau",
+         "price": 3500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Deion Burks",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Dare Ogunbowale",
+         "price": 4000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
+         "price": 5500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Nikko Remigio",
+         "price": 6000,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Emari Demercado",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Dalton Schultz",
+         "price": 5000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Anthony Gould",
+         "price": 4500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Drew Ogletree",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Pharaoh Brown",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Daniel Jones",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "David Montgomery",
+         "price": 1750,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Tyler Warren",
+         "price": 6000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Seth McGowan",
+         "price": 6000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Kayshon Boutte",
+         "price": 2800,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Nico Collins",
+         "price": 625,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "C.J. Stroud",
+         "price": 3500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Jonathan Taylor",
+         "price": 700,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Tyler Warren",
+         "price": 2200,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Seth McGowan",
+         "price": 2500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Nick Westbrook-Ikhine",
+         "price": 6600,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Jonathan Taylor",
+         "price": 3000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Nico Collins",
+         "price": 2500,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Laquon Treadwell",
+         "price": 3300,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Anthony Gould",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Kayshon Boutte",
+         "price": 6000,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Xavier Hutchinson",
+         "price": 1750,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Cade Stover",
+         "price": 5500,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Ashton Dulin",
+         "price": 6600,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Marlin Klein",
+         "price": 5000,
+         "point": 1.5
         }
        ]
       }
